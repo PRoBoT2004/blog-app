@@ -1,0 +1,12 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-white text-black dark:bg-darkBlue dark:text-white;
+  
+    /* transition: background-color 0.5s ease; */
+  
+  
+}
